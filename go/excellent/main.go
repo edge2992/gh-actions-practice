@@ -1,5 +1,6 @@
 package main
 
+// Print the result of the function EvenOrOdd
 func EvenOrOdd(number int) string {
 	if number%2 == 0 {
 		return "Even"
